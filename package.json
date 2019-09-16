@@ -1,0 +1,24 @@
+{
+  "name": "tictactoe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelParker8/TTT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelParker8/TTT/issues"
+  },
+  "homepage": "https://github.com/MichaelParker8/TTT#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
